@@ -1,0 +1,5 @@
+{
+  "workspace.library": ["/usr/share/awesome/lib"],
+  "diagnostics.globals": ["client", "screen", "awesome", "auto", "root"],
+  "diagnostics.disable": ["lowercase-global"]
+}
